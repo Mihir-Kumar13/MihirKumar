@@ -1,7 +1,7 @@
 
- 🌱 I’m currently learning Python, Go Java and Loves to code
+ 🌱 I’m student currently learning Python, Go Java and Loves to code
  
- 💞️ I’m looking to Grow through Devops Career
+ 💞️ I’m looking to Grow through Devops Career Actively seeking opportunities to learn new skills and gain experience in the Field of Devops
 
  📫 How to reach me emailme.mihir@gmail.com
 

@@ -1,9 +1,33 @@
 
- 🌱 I’m student currently learning Python, Go Java and Loves to code
- 
- 💞️ I’m looking to Grow through Devops Career Actively seeking opportunities to learn new skills and gain experience in the Field of Devops
+# Hi, I'm Mihir Kumar! 👋
 
- 📫 How to reach me emailme.mihir@gmail.com
+
+- **Student**
+- **Devops-Cloud Enthusiastic**
+- **Currently learning Terraform & Kubernetes**
+- **Looking to Grow in This Tech**
+
+
+
+<div align="center">
+## 🛠 Tech Stack
+Java , Python , Docker,  AWS ,Kubernetes , Terraform , CI/CD
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-kumar-a73814217/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/THEMKR7)
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
 
 <!---
 MKDAN13/MKDAN13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

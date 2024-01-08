@@ -1,16 +1,16 @@
-
-# Hi, I'm Mihir Kumar! 👋
+<h1 align="center">Hi I'm Mihir Kumar 👋  </h1>
 
 
 - **Student**
 - **Devops-Cloud Enthusiastic**
-- **Currently learning Terraform & Kubernetes**
-- **Looking to Grow in This Tech**
+- Currently learning **Terraform & Kubernetes**
+- Looking to **Grow** in This Tech
 
 
 
 ## 🛠 Tech Stack
-Java , Python , Docker,  AWS ,Kubernetes , Terraform , CI/CD
+<img src="https://iconscout.com/free-icon/java-60" width=40 height=40 />Java 
+, Python , Docker,  AWS ,Kubernetes , Terraform , CI/CD
 
 
 ## 🔗 Links

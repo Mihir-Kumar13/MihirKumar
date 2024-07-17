@@ -11,7 +11,9 @@
 
 
 ## 🛠 Tech Stack
-Java , Python , Docker,  AWS ,Kubernetes , Terraform , CI/CD
+Java , Python , Docker,  AWS 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+           ,Kubernetes , Terraform , CI/CD
 
 
 ## 🔗 Links

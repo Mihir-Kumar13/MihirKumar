@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="new.gif">
+<img align="right" alt="Coding" width="320" src="new.gif">
 
 <h1 align="center">Hi I'm Mihir Kumar 👋  </h1>
 
